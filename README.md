@@ -1,2 +1,2 @@
 # mimeo
-A simple, intuitive clipboard program.
+A simple, intuitive clipboard manager.
